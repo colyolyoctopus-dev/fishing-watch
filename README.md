@@ -19,6 +19,8 @@ Fishing Watch compares incoming audio with the clips you supply. It looks at how
 
 ## Optional hotkey mode
 
+**Better Fishing is required for the supported automatic cast-and-reel setup.** Install [Better Fishing from CurseForge](https://www.curseforge.com/wow/addons/better-fishing) and configure its one-key fishing binding. Confirm the key casts and reels in when you press it manually in WoW, then select that same key in Fishing Watch. Detection-only mode works without the addon.
+
 Fishing Watch starts in detection-only mode. The optional hotkey mode sends your assigned key to a focused WoW window and has configurable recast and missed-cast retry timing. **Blizzard prohibits unauthorized gameplay automation.** Review its policy before enabling this mode. [Blizzard End User License Agreement](https://www.blizzard.com/en-us/legal/simple/bfbbb648-bcc6-4b78-a5c7-e2fe20c135df/blizzard-end-user-license-agreement)
 
 ## Feedback
