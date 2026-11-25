@@ -4,6 +4,16 @@ Fishing Watch is a free, portable Windows app that listens for the World of Warc
 
 **[Download Fishing Watch for Windows x64](https://github.com/colyolyoctopus-dev/fishing-watch/releases/latest)**
 
+## Screenshots
+
+**Fishing Watch v1.1.0** with the bite chime on and automatic hotkeys off.
+
+![Fishing Watch main window with the bite chime on and automatic hotkeys off](fishing-watch-v1.1.0.png)
+
+**Detection demo** with an example audio level, match score, and one detected bite.
+
+![Listener activity example showing audio at minus 24 dBFS, a 92 percent best match, and one detection](fishing-watch-detection-demo.png)
+
 ## Get started
 
 1. Download **Fishing-Watch-Windows-x64.zip**, extract it, and open **FishingWatch.exe**. The ZIP includes the Windows runtime. No installer is needed.
