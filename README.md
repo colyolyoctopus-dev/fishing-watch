@@ -38,3 +38,7 @@ Fishing Watch starts in detection-only mode. The optional hotkey mode sends your
 If you report a missed bite or a false detection, include your WoW edition, Windows version, capture mode, and the match score you saw. [Open an issue](https://github.com/colyolyoctopus-dev/fishing-watch/issues/new).
 
 Fishing Watch is an independent project and is unaffiliated with Blizzard Entertainment.
+
+## Community
+
+[Elitepvpers WoW Tools & Macros forum](https://www.elitepvpers.com/forum/wow-exploits-hacks-tools-macros/)
