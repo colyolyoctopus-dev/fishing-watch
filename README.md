@@ -42,3 +42,8 @@ Fishing Watch is an independent project and is unaffiliated with Blizzard Entert
 ## Community
 
 [Elitepvpers WoW Tools & Macros forum](https://www.elitepvpers.com/forum/wow-exploits-hacks-tools-macros/)
+
+
+## Optional tips
+
+Fishing Watch is free. If it helps, you can [leave an optional tip on Ko-fi](https://ko-fi.com/darksiderdev) to support future updates.
